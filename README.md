@@ -31,12 +31,14 @@ _You **can** combine them_
 ## New Line and Escape
 ```
 a<br />
-b/
+b\
 c__
+d
 ```
 a<br />
-b/
+b\
 c__
+d
 
 ## Lists
 
