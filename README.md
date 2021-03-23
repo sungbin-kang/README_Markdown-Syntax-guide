@@ -28,6 +28,16 @@ __This will also be bold__<br />
 
 _You **can** combine them_
 
+## New Line and Escape
+```
+a<br />
+b/
+c__
+```
+a<br />
+b/
+c__
+
 ## Lists
 
 ### Unordered
