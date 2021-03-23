@@ -68,7 +68,6 @@ I think you should use an
 # GitHub Flavored Markdown
 
 ## Syntax highlighting
-
 ```
 ```javascript
 function fancyAlert(arg) {
@@ -77,8 +76,9 @@ function fancyAlert(arg) {
   }
 }
 ```
-```
 
+```
+```
 ```
     function fancyAlert(arg) {
       if(arg) {
@@ -94,11 +94,10 @@ def foo():
 ```
 
 ## Task Lists
-```
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
-```
+
 
 
