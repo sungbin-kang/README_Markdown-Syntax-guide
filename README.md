@@ -10,11 +10,6 @@ Full guide: https://guides.github.com/features/mastering-markdown/#what
 ###### This is an <h6> tag
 ```
 
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
- 
-
 ## Emphasis
 ```
 *This text will be italic*
@@ -25,11 +20,11 @@ __This will also be bold__
 
 _You **can** combine them_
 ```
-*This text will be italic*
-_This will also be italic_
+*This text will be italic*<br />
+_This will also be italic_<br />
 
-**This text will be bold**
-__This will also be bold__
+**This text will be bold**<br />
+__This will also be bold__<br />
 
 _You **can** combine them_
 
