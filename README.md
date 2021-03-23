@@ -108,7 +108,7 @@ I think you should use an
 
 ## Syntax highlighting
 ```
-\```javascript
+```javascript
 function fancyAlert(arg) {
   if(arg) {
     $.facebox({div:'#foo'})
