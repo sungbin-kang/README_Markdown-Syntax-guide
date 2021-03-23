@@ -32,13 +32,13 @@ _You **can** combine them_
 ```
 a<br />
 b\
-c__
-d
+c
+\```
 ```
 a<br />
 b\
-c__
-d
+c
+\```
 
 ## Lists
 
