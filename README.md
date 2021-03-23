@@ -1,5 +1,7 @@
 # Markdown Syntax guide
 
+Full guide: https://guides.github.com/features/mastering-markdown/#what
+
 ## Headers
 
 ```
